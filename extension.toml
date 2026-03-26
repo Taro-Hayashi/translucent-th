@@ -6,5 +6,3 @@ authors = ["Taro Hayashi <rinarinapokegogo@gmail.com>"]
 description = "Translucent dark and light themes for Zed"
 repository = "https://github.com/Taro-Hayashi/translucent-th"
 
-[themes]
-path = "themes"
