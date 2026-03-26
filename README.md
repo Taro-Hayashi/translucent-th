@@ -27,3 +27,17 @@ Search for **Translucent** in the Zed Extensions marketplace, or add it to your 
   "theme": "Light Translucent"
 }
 ```
+
+## Enable Transparency
+
+To enable window transparency, add the following to your `settings.json`:
+
+```json
+{
+  "experimental.theme_overrides": {
+    "background.appearance": "transparent"
+  }
+}
+```
+
+> This is an experimental Zed feature and is not required to use the theme.
