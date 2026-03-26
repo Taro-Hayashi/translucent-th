@@ -1,10 +1,10 @@
 {
     "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-    "name": "Dark Transparent",
+    "name": "Dark Translucent",
     "author": "hayashi",
     "themes": [
         {
-            "name": "Dark Transparent",
+            "name": "Dark Translucent",
             "appearance": "dark",
             "style": {
                 "border": "#424b5f50",
